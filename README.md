@@ -50,7 +50,7 @@ Open the page in a browser, check that it is readable, and correct any HTML mist
 
 Add a README.md that explains what your project is and how to open it. Include a screenshot of your finished page in the README itself. Add the screenshot image to your repository (for example, in a screenshots/ folder), then embed it with Markdown, such as:
 
-![https://raw.githubusercontent.com/jatin-rathor-83/BCS2026462-JatinRathor-webdev-day02-setup-practice/refs/heads/main/Screenshot_20261022_235537_Acode.jpg(screenshots/personal-intro.png)
+![Personal intro](https://raw.githubusercontent.com/jatin-rathor-83/BCS2026462-JatinRathor-webdev-day02-setup-practice/refs/heads/main/Screenshot_20261022_235537_Acode.jpg)(screenshots/personal-intro.png)
 Commit your work with clear messages and push it to GitHub.
 
 Submit
